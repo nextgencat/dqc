@@ -6,7 +6,7 @@ import shutil
 from pathlib import Path
 
 OUTPUT_DIR = Path("output").resolve()
-DEFAULT_NAME = "dummy"  # без .exe
+DEFAULT_NAME = "dummy"
 DUMMY_PATH = OUTPUT_DIR / (DEFAULT_NAME + ".exe")
 
 
