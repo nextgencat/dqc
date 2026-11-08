@@ -1,2 +1,2 @@
-# dqc
+# dqc - Discord Quest Completer
 
